@@ -1,0 +1,46 @@
+# Core Deep Learning
+tensorflow>=2.12.0
+torch>=2.0.0
+torchvision>=0.15.0
+keras>=2.12.0
+
+# Explainability Libraries
+shap>=0.42.0
+lime>=0.2.0.1
+eli5>=0.13.0
+captum>=0.6.0
+
+# Data Science Stack
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Model Utilities
+joblib>=1.2.0
+h5py>=3.8.0
+
+# API & Deployment
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+streamlit>=1.23.0
+
+# Healthcare / Clinical
+lifelines>=0.27.0
+
+# Finance
+yfinance>=0.2.18
+ta>=0.10.2
+
+# Notebook Support
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Testing & Logging
+pytest>=7.3.0
+loguru>=0.7.0
+tqdm>=4.65.0
